@@ -1,0 +1,5 @@
+.python-version
+secrets.toml
+.vscode
+tmp/
+__pycache__/
